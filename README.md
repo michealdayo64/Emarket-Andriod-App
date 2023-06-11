@@ -1,16 +1,7 @@
-# learningdart
+This an E-market mobile application, more like an ecommerce application but built for farm product. The objective of the application is for users to be able to order for farm product in different sizes, add to cart, make payment and reciept of order is being sent to users email address and user is also given an option to download as pdf or csv.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It is very much still on development. The screen that are designed are listed below.
+1. All product screen
+2. all product category screen
+3. Product detail screen
+4. search widget
